@@ -1,2 +1,2 @@
-# rsschool-cv
-Tasks Markdown &amp; Git
+https://Aleksandr-Glebik.github.io/rsschool-cv/cv
+
